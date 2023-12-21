@@ -14,7 +14,7 @@ from sklearn.metrics import accuracy_score
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
-df = pd.read_csv('PP_merged.csv')
+df = pd.read_csv('PPmerged.csv')
 
 # drop columns
 df_model = df.drop(columns=['like_id', 'user_id', 'cafe_id'])
@@ -33,15 +33,16 @@ X_test_scaled = scaler.transform(X_test)
 
 # modelling
 model = Sequential([
-    Dense(64, activation='relu', input_shape=(X_train.shape[1],)),
-    Dense(32, activation='relu'),
+    Dense(128, activation='relu', input_shape=(X_train.shape[1],)),
+    Dense(64, activation='relu'),
+    # Dense(32, activation='relu'),
     Dense(1, activation='sigmoid')
 ])
 
 model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
 
 # Train the model
-model.fit(X_train_scaled, y_train, epochs=10, batch_size=32, validation_split=0.2)
+model.fit(X_train_scaled, y_train, epochs=100, batch_size=32, validation_split=0.2)
 
 # Evaluate the model
 y_pred = (model.predict(X_test_scaled) > 0.5).astype(int)
@@ -83,4 +84,4 @@ prediction = model.predict(user_cafe_data_scaled)
 print(f'Predicted Likelihood for User {user_id_to_predict} liking Cafe {cafe_id_to_predict}: {prediction}')
 
 
-model.save("PP_model_1.h5", save_format='h5')
+model.save("PP_model_3.h5", save_format='h5')
