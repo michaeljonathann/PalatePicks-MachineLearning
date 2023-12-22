@@ -1,0 +1,1001 @@
+,cafe_id,name,user_id,like
+0,1,Bakoel Koffie Cikini,38,8
+1,1,Bakoel Koffie Cikini,58,8
+2,1,Bakoel Koffie Cikini,181,9
+3,1,Bakoel Koffie Cikini,273,8
+4,1,Bakoel Koffie Cikini,330,7
+5,1,Bakoel Koffie Cikini,537,6
+6,1,Bakoel Koffie Cikini,701,7
+7,1,Bakoel Koffie Cikini,714,9
+8,1,Bakoel Koffie Cikini,773,10
+9,1,Bakoel Koffie Cikini,778,5
+10,1,Bakoel Koffie Cikini,782,6
+11,1,Bakoel Koffie Cikini,785,7
+12,1,Bakoel Koffie Cikini,971,8
+13,2,Anomali Coffee Menteng,161,10
+14,2,Anomali Coffee Menteng,180,7
+15,2,Anomali Coffee Menteng,227,6
+16,2,Anomali Coffee Menteng,234,10
+17,2,Anomali Coffee Menteng,292,5
+18,2,Anomali Coffee Menteng,303,8
+19,2,Anomali Coffee Menteng,364,6
+20,2,Anomali Coffee Menteng,367,7
+21,2,Anomali Coffee Menteng,406,10
+22,2,Anomali Coffee Menteng,470,5
+23,2,Anomali Coffee Menteng,520,7
+24,2,Anomali Coffee Menteng,612,5
+25,2,Anomali Coffee Menteng,641,6
+26,2,Anomali Coffee Menteng,756,6
+27,2,Anomali Coffee Menteng,800,5
+28,2,Anomali Coffee Menteng,837,9
+29,2,Anomali Coffee Menteng,865,7
+30,3,Lucky Cat Coffee & Kitchen,65,7
+31,3,Lucky Cat Coffee & Kitchen,151,10
+32,3,Lucky Cat Coffee & Kitchen,162,7
+33,4,Anomali Coffee,192,8
+34,4,Anomali Coffee,347,10
+35,4,Anomali Coffee,544,6
+36,4,Anomali Coffee,639,8
+37,4,Anomali Coffee,652,7
+38,4,Anomali Coffee,691,8
+39,4,Anomali Coffee,790,5
+40,4,Anomali Coffee,795,7
+41,4,Anomali Coffee,970,6
+42,5,Giyanti Coffee Roastery,89,10
+43,5,Giyanti Coffee Roastery,112,10
+44,5,Giyanti Coffee Roastery,120,5
+45,5,Giyanti Coffee Roastery,152,9
+46,5,Giyanti Coffee Roastery,212,7
+47,5,Giyanti Coffee Roastery,490,8
+48,5,Giyanti Coffee Roastery,514,7
+49,5,Giyanti Coffee Roastery,521,5
+50,5,Giyanti Coffee Roastery,651,5
+51,5,Giyanti Coffee Roastery,686,6
+52,5,Giyanti Coffee Roastery,744,6
+53,5,Giyanti Coffee Roastery,911,10
+54,5,Giyanti Coffee Roastery,936,7
+55,6,The Cafe,107,9
+56,6,The Cafe,506,7
+57,6,The Cafe,532,10
+58,6,The Cafe,727,5
+59,6,The Cafe,855,8
+60,6,The Cafe,929,9
+61,6,The Cafe,979,6
+62,6,The Cafe,993,6
+63,7,Arborea Cafe,2,10
+64,7,Arborea Cafe,109,10
+65,7,Arborea Cafe,224,6
+66,7,Arborea Cafe,345,8
+67,7,Arborea Cafe,583,9
+68,7,Arborea Cafe,656,6
+69,7,Arborea Cafe,781,5
+70,7,Arborea Cafe,913,9
+71,7,Arborea Cafe,977,10
+72,8,Walking Drums,305,8
+73,8,Walking Drums,342,10
+74,8,Walking Drums,586,7
+75,8,Walking Drums,774,6
+76,8,Walking Drums,864,6
+77,8,Walking Drums,909,9
+78,9,Shisha Cafe Kemang,130,7
+79,9,Shisha Cafe Kemang,283,8
+80,9,Shisha Cafe Kemang,333,5
+81,9,Shisha Cafe Kemang,422,8
+82,9,Shisha Cafe Kemang,526,5
+83,9,Shisha Cafe Kemang,552,10
+84,9,Shisha Cafe Kemang,570,10
+85,9,Shisha Cafe Kemang,695,8
+86,9,Shisha Cafe Kemang,743,9
+87,9,Shisha Cafe Kemang,982,6
+88,10,Monolog Coffee Company Plaza Senayan,44,8
+89,10,Monolog Coffee Company Plaza Senayan,71,5
+90,10,Monolog Coffee Company Plaza Senayan,147,9
+91,10,Monolog Coffee Company Plaza Senayan,295,7
+92,10,Monolog Coffee Company Plaza Senayan,420,9
+93,10,Monolog Coffee Company Plaza Senayan,433,7
+94,10,Monolog Coffee Company Plaza Senayan,441,10
+95,10,Monolog Coffee Company Plaza Senayan,511,10
+96,10,Monolog Coffee Company Plaza Senayan,524,7
+97,10,Monolog Coffee Company Plaza Senayan,530,8
+98,10,Monolog Coffee Company Plaza Senayan,798,7
+99,10,Monolog Coffee Company Plaza Senayan,840,8
+100,11,Kedai Tjikini,59,7
+101,11,Kedai Tjikini,225,10
+102,11,Kedai Tjikini,360,7
+103,11,Kedai Tjikini,475,6
+104,11,Kedai Tjikini,661,5
+105,11,Kedai Tjikini,900,6
+106,11,Kedai Tjikini,976,10
+107,12,Hause Rooftop,111,5
+108,12,Hause Rooftop,139,9
+109,12,Hause Rooftop,143,9
+110,12,Hause Rooftop,187,5
+111,12,Hause Rooftop,382,6
+112,12,Hause Rooftop,562,7
+113,12,Hause Rooftop,725,6
+114,12,Hause Rooftop,951,7
+115,12,Hause Rooftop,996,7
+116,13,Kopi Kalyan,76,6
+117,13,Kopi Kalyan,125,9
+118,13,Kopi Kalyan,281,6
+119,13,Kopi Kalyan,288,10
+120,13,Kopi Kalyan,663,8
+121,13,Kopi Kalyan,669,5
+122,13,Kopi Kalyan,730,10
+123,13,Kopi Kalyan,829,5
+124,13,Kopi Kalyan,833,6
+125,14,Langit Seduh Rooftop,17,6
+126,14,Langit Seduh Rooftop,216,5
+127,14,Langit Seduh Rooftop,432,8
+128,14,Langit Seduh Rooftop,658,10
+129,14,Langit Seduh Rooftop,684,6
+130,14,Langit Seduh Rooftop,851,10
+131,14,Langit Seduh Rooftop,882,9
+132,14,Langit Seduh Rooftop,962,10
+133,15,Saudagar Kopi Sabang,66,5
+134,15,Saudagar Kopi Sabang,173,6
+135,15,Saudagar Kopi Sabang,370,6
+136,15,Saudagar Kopi Sabang,386,5
+137,15,Saudagar Kopi Sabang,635,7
+138,15,Saudagar Kopi Sabang,808,5
+139,15,Saudagar Kopi Sabang,814,6
+140,15,Saudagar Kopi Sabang,843,10
+141,15,Saudagar Kopi Sabang,849,10
+142,15,Saudagar Kopi Sabang,886,5
+143,16,"1/15 Coffee, Menteng",51,5
+144,16,"1/15 Coffee, Menteng",153,9
+145,16,"1/15 Coffee, Menteng",154,8
+146,16,"1/15 Coffee, Menteng",280,8
+147,16,"1/15 Coffee, Menteng",310,9
+148,16,"1/15 Coffee, Menteng",315,5
+149,16,"1/15 Coffee, Menteng",394,7
+150,16,"1/15 Coffee, Menteng",499,7
+151,16,"1/15 Coffee, Menteng",504,9
+152,16,"1/15 Coffee, Menteng",508,10
+153,16,"1/15 Coffee, Menteng",689,5
+154,16,"1/15 Coffee, Menteng",775,10
+155,17,Goedkoop,148,6
+156,17,Goedkoop,171,10
+157,17,Goedkoop,316,8
+158,17,Goedkoop,407,7
+159,17,Goedkoop,509,9
+160,17,Goedkoop,625,5
+161,17,Goedkoop,703,7
+162,17,Goedkoop,780,10
+163,17,Goedkoop,873,6
+164,17,Goedkoop,906,7
+165,17,Goedkoop,907,7
+166,17,Goedkoop,956,8
+167,18,Fami Cafe grand indonesia,114,9
+168,18,Fami Cafe grand indonesia,246,7
+169,18,Fami Cafe grand indonesia,523,7
+170,18,Fami Cafe grand indonesia,696,5
+171,18,Fami Cafe grand indonesia,819,10
+172,18,Fami Cafe grand indonesia,850,8
+173,18,Fami Cafe grand indonesia,981,5
+174,19,Pison Coffee Jakarta,86,7
+175,19,Pison Coffee Jakarta,108,6
+176,19,Pison Coffee Jakarta,210,9
+177,19,Pison Coffee Jakarta,381,10
+178,19,Pison Coffee Jakarta,546,9
+179,19,Pison Coffee Jakarta,804,6
+180,19,Pison Coffee Jakarta,821,7
+181,20,One Fifteenth Coffee,118,9
+182,20,One Fifteenth Coffee,140,9
+183,20,One Fifteenth Coffee,201,9
+184,20,One Fifteenth Coffee,338,6
+185,20,One Fifteenth Coffee,430,8
+186,20,One Fifteenth Coffee,603,7
+187,20,One Fifteenth Coffee,645,7
+188,20,One Fifteenth Coffee,723,7
+189,20,One Fifteenth Coffee,745,5
+190,20,One Fifteenth Coffee,902,10
+191,20,One Fifteenth Coffee,942,5
+192,20,One Fifteenth Coffee,957,10
+193,20,One Fifteenth Coffee,987,5
+194,21,Crematology,73,7
+195,21,Crematology,95,6
+196,21,Crematology,198,10
+197,21,Crematology,209,5
+198,21,Crematology,380,5
+199,21,Crematology,417,5
+200,21,Crematology,545,5
+201,21,Crematology,634,5
+202,21,Crematology,664,9
+203,21,Crematology,677,10
+204,21,Crematology,742,6
+205,21,Crematology,938,9
+206,21,Crematology,989,9
+207,21,Crematology,1000,6
+208,22,Djournal Coffee,49,5
+209,22,Djournal Coffee,69,8
+210,22,Djournal Coffee,83,5
+211,22,Djournal Coffee,87,7
+212,22,Djournal Coffee,260,10
+213,22,Djournal Coffee,416,6
+214,22,Djournal Coffee,456,8
+215,22,Djournal Coffee,476,5
+216,22,Djournal Coffee,477,10
+217,22,Djournal Coffee,697,7
+218,22,Djournal Coffee,771,5
+219,22,Djournal Coffee,835,5
+220,22,Djournal Coffee,899,10
+221,22,Djournal Coffee,990,7
+222,23,Starbucks,11,9
+223,23,Starbucks,149,6
+224,23,Starbucks,335,10
+225,23,Starbucks,421,8
+226,23,Starbucks,616,8
+227,23,Starbucks,618,9
+228,23,Starbucks,765,9
+229,23,Starbucks,772,5
+230,23,Starbucks,898,5
+231,24,Kawisari Cafe & Eatery,23,9
+232,24,Kawisari Cafe & Eatery,158,5
+233,24,Kawisari Cafe & Eatery,211,6
+234,24,Kawisari Cafe & Eatery,285,10
+235,24,Kawisari Cafe & Eatery,350,10
+236,24,Kawisari Cafe & Eatery,363,5
+237,24,Kawisari Cafe & Eatery,375,8
+238,24,Kawisari Cafe & Eatery,705,7
+239,24,Kawisari Cafe & Eatery,805,5
+240,24,Kawisari Cafe & Eatery,845,6
+241,24,Kawisari Cafe & Eatery,890,9
+242,24,Kawisari Cafe & Eatery,931,10
+243,24,Kawisari Cafe & Eatery,974,6
+244,25,REN Coffee & Eatery,45,9
+245,25,REN Coffee & Eatery,150,10
+246,25,REN Coffee & Eatery,174,6
+247,25,REN Coffee & Eatery,274,5
+248,25,REN Coffee & Eatery,276,5
+249,25,REN Coffee & Eatery,413,5
+250,25,REN Coffee & Eatery,437,10
+251,25,REN Coffee & Eatery,491,10
+252,25,REN Coffee & Eatery,592,7
+253,25,REN Coffee & Eatery,608,6
+254,25,REN Coffee & Eatery,631,8
+255,25,REN Coffee & Eatery,698,7
+256,25,REN Coffee & Eatery,761,6
+257,25,REN Coffee & Eatery,801,10
+258,25,REN Coffee & Eatery,920,10
+259,26,Ombe Kofie Menteng,36,5
+260,26,Ombe Kofie Menteng,284,10
+261,26,Ombe Kofie Menteng,300,10
+262,26,Ombe Kofie Menteng,507,6
+263,26,Ombe Kofie Menteng,528,6
+264,26,Ombe Kofie Menteng,655,9
+265,26,Ombe Kofie Menteng,690,9
+266,26,Ombe Kofie Menteng,888,8
+267,26,Ombe Kofie Menteng,969,10
+268,27,Cecemuwe Cafe and Space - Senayan,101,7
+269,27,Cecemuwe Cafe and Space - Senayan,259,9
+270,27,Cecemuwe Cafe and Space - Senayan,331,7
+271,27,Cecemuwe Cafe and Space - Senayan,377,9
+272,27,Cecemuwe Cafe and Space - Senayan,438,8
+273,27,Cecemuwe Cafe and Space - Senayan,488,8
+274,27,Cecemuwe Cafe and Space - Senayan,576,8
+275,27,Cecemuwe Cafe and Space - Senayan,699,5
+276,27,Cecemuwe Cafe and Space - Senayan,753,9
+277,27,Cecemuwe Cafe and Space - Senayan,812,10
+278,27,Cecemuwe Cafe and Space - Senayan,961,6
+279,27,Cecemuwe Cafe and Space - Senayan,966,9
+280,27,Cecemuwe Cafe and Space - Senayan,984,7
+281,28,KLTR Jakarta,103,5
+282,28,KLTR Jakarta,202,10
+283,28,KLTR Jakarta,287,8
+284,28,KLTR Jakarta,472,7
+285,28,KLTR Jakarta,621,8
+286,28,KLTR Jakarta,724,10
+287,28,KLTR Jakarta,828,8
+288,28,KLTR Jakarta,940,9
+289,29,Workroom Coffee,25,5
+290,29,Workroom Coffee,37,8
+291,29,Workroom Coffee,55,9
+292,29,Workroom Coffee,100,9
+293,29,Workroom Coffee,117,8
+294,29,Workroom Coffee,164,5
+295,29,Workroom Coffee,191,8
+296,29,Workroom Coffee,282,7
+297,29,Workroom Coffee,297,10
+298,29,Workroom Coffee,446,6
+299,29,Workroom Coffee,450,9
+300,29,Workroom Coffee,458,9
+301,29,Workroom Coffee,505,7
+302,29,Workroom Coffee,536,8
+303,29,Workroom Coffee,542,10
+304,29,Workroom Coffee,680,8
+305,29,Workroom Coffee,708,10
+306,29,Workroom Coffee,759,5
+307,29,Workroom Coffee,854,9
+308,29,Workroom Coffee,948,5
+309,30,Wake Cup Coffee Graha Harmoni,145,7
+310,30,Wake Cup Coffee Graha Harmoni,361,9
+311,30,Wake Cup Coffee Graha Harmoni,426,8
+312,30,Wake Cup Coffee Graha Harmoni,585,6
+313,30,Wake Cup Coffee Graha Harmoni,794,6
+314,30,Wake Cup Coffee Graha Harmoni,796,10
+315,30,Wake Cup Coffee Graha Harmoni,826,10
+316,30,Wake Cup Coffee Graha Harmoni,953,6
+317,31,Cafe Kitsune Jakarta,175,10
+318,31,Cafe Kitsune Jakarta,371,7
+319,31,Cafe Kitsune Jakarta,374,5
+320,31,Cafe Kitsune Jakarta,512,7
+321,31,Cafe Kitsune Jakarta,513,8
+322,31,Cafe Kitsune Jakarta,559,8
+323,31,Cafe Kitsune Jakarta,676,9
+324,31,Cafe Kitsune Jakarta,717,9
+325,31,Cafe Kitsune Jakarta,863,5
+326,31,Cafe Kitsune Jakarta,875,8
+327,31,Cafe Kitsune Jakarta,893,10
+328,31,Cafe Kitsune Jakarta,935,5
+329,31,Cafe Kitsune Jakarta,954,9
+330,31,Cafe Kitsune Jakarta,986,10
+331,32,Cafe De Burse,410,10
+332,32,Cafe De Burse,729,9
+333,32,Cafe De Burse,758,10
+334,32,Cafe De Burse,922,5
+335,32,Cafe De Burse,968,8
+336,33,PERON SKYCAFE,20,9
+337,33,PERON SKYCAFE,77,9
+338,33,PERON SKYCAFE,110,8
+339,33,PERON SKYCAFE,124,6
+340,33,PERON SKYCAFE,226,7
+341,33,PERON SKYCAFE,409,9
+342,33,PERON SKYCAFE,517,9
+343,33,PERON SKYCAFE,568,7
+344,33,PERON SKYCAFE,670,10
+345,33,PERON SKYCAFE,738,7
+346,33,PERON SKYCAFE,995,7
+347,34,Romansa Jakarta,156,7
+348,34,Romansa Jakarta,188,8
+349,34,Romansa Jakarta,213,10
+350,34,Romansa Jakarta,314,7
+351,34,Romansa Jakarta,434,8
+352,34,Romansa Jakarta,553,7
+353,34,Romansa Jakarta,561,10
+354,34,Romansa Jakarta,595,7
+355,34,Romansa Jakarta,619,8
+356,34,Romansa Jakarta,848,10
+357,34,Romansa Jakarta,877,5
+358,35,Little League Jakarta,14,8
+359,35,Little League Jakarta,24,9
+360,35,Little League Jakarta,142,10
+361,35,Little League Jakarta,302,6
+362,35,Little League Jakarta,501,6
+363,35,Little League Jakarta,565,5
+364,35,Little League Jakarta,572,5
+365,35,Little League Jakarta,593,9
+366,35,Little League Jakarta,633,5
+367,35,Little League Jakarta,674,7
+368,35,Little League Jakarta,678,7
+369,35,Little League Jakarta,797,8
+370,35,Little League Jakarta,975,9
+371,35,Little League Jakarta,983,7
+372,36,KEN ALIY COFFEE - KOPI ENAK SPACES,137,9
+373,36,KEN ALIY COFFEE - KOPI ENAK SPACES,248,6
+374,36,KEN ALIY COFFEE - KOPI ENAK SPACES,327,8
+375,36,KEN ALIY COFFEE - KOPI ENAK SPACES,500,6
+376,36,KEN ALIY COFFEE - KOPI ENAK SPACES,580,9
+377,36,KEN ALIY COFFEE - KOPI ENAK SPACES,706,6
+378,36,KEN ALIY COFFEE - KOPI ENAK SPACES,735,5
+379,36,KEN ALIY COFFEE - KOPI ENAK SPACES,792,8
+380,36,KEN ALIY COFFEE - KOPI ENAK SPACES,834,8
+381,36,KEN ALIY COFFEE - KOPI ENAK SPACES,842,8
+382,36,KEN ALIY COFFEE - KOPI ENAK SPACES,896,7
+383,37,ou tu cafe,182,9
+384,37,ou tu cafe,196,5
+385,37,ou tu cafe,239,5
+386,37,ou tu cafe,588,8
+387,37,ou tu cafe,815,5
+388,37,ou tu cafe,859,6
+389,38,Upstairs Rooftop Cafe,129,8
+390,38,Upstairs Rooftop Cafe,256,5
+391,38,Upstairs Rooftop Cafe,404,5
+392,38,Upstairs Rooftop Cafe,444,9
+393,38,Upstairs Rooftop Cafe,574,5
+394,38,Upstairs Rooftop Cafe,610,9
+395,38,Upstairs Rooftop Cafe,707,5
+396,38,Upstairs Rooftop Cafe,809,10
+397,38,Upstairs Rooftop Cafe,930,7
+398,38,Upstairs Rooftop Cafe,943,8
+399,39,Diskusi Kopi & Ruang Berbagi Kawi,70,7
+400,39,Diskusi Kopi & Ruang Berbagi Kawi,159,8
+401,39,Diskusi Kopi & Ruang Berbagi Kawi,235,10
+402,39,Diskusi Kopi & Ruang Berbagi Kawi,249,5
+403,39,Diskusi Kopi & Ruang Berbagi Kawi,387,9
+404,39,Diskusi Kopi & Ruang Berbagi Kawi,471,6
+405,39,Diskusi Kopi & Ruang Berbagi Kawi,480,6
+406,39,Diskusi Kopi & Ruang Berbagi Kawi,715,10
+407,39,Diskusi Kopi & Ruang Berbagi Kawi,763,6
+408,39,Diskusi Kopi & Ruang Berbagi Kawi,871,9
+409,39,Diskusi Kopi & Ruang Berbagi Kawi,878,6
+410,40,BONCAFE INDONESIA,50,9
+411,40,BONCAFE INDONESIA,85,6
+412,40,BONCAFE INDONESIA,222,5
+413,40,BONCAFE INDONESIA,403,5
+414,40,BONCAFE INDONESIA,455,5
+415,40,BONCAFE INDONESIA,644,10
+416,40,BONCAFE INDONESIA,704,6
+417,40,BONCAFE INDONESIA,895,5
+418,40,BONCAFE INDONESIA,901,10
+419,41,Blumchen Coffee,82,7
+420,41,Blumchen Coffee,84,9
+421,41,Blumchen Coffee,569,7
+422,41,Blumchen Coffee,589,10
+423,41,Blumchen Coffee,624,8
+424,41,Blumchen Coffee,749,9
+425,41,Blumchen Coffee,751,8
+426,41,Blumchen Coffee,788,8
+427,42,Antipodean Coffee,28,5
+428,42,Antipodean Coffee,278,7
+429,42,Antipodean Coffee,462,5
+430,42,Antipodean Coffee,539,7
+431,42,Antipodean Coffee,659,8
+432,42,Antipodean Coffee,766,6
+433,42,Antipodean Coffee,791,9
+434,42,Antipodean Coffee,916,10
+435,42,Antipodean Coffee,959,10
+436,43,Sky Garden Cafe,176,7
+437,43,Sky Garden Cafe,352,7
+438,43,Sky Garden Cafe,414,9
+439,43,Sky Garden Cafe,611,6
+440,43,Sky Garden Cafe,620,5
+441,43,Sky Garden Cafe,673,9
+442,43,Sky Garden Cafe,786,10
+443,44,The People's Cafe Rajawali,81,10
+444,44,The People's Cafe Rajawali,230,9
+445,44,The People's Cafe Rajawali,340,5
+446,44,The People's Cafe Rajawali,366,6
+447,44,The People's Cafe Rajawali,373,10
+448,44,The People's Cafe Rajawali,378,9
+449,44,The People's Cafe Rajawali,605,6
+450,44,The People's Cafe Rajawali,880,6
+451,44,The People's Cafe Rajawali,994,7
+452,45,Kopi Cat Cafe by Groovy - Kemang,63,7
+453,45,Kopi Cat Cafe by Groovy - Kemang,219,9
+454,45,Kopi Cat Cafe by Groovy - Kemang,354,6
+455,45,Kopi Cat Cafe by Groovy - Kemang,494,9
+456,45,Kopi Cat Cafe by Groovy - Kemang,577,10
+457,45,Kopi Cat Cafe by Groovy - Kemang,578,9
+458,45,Kopi Cat Cafe by Groovy - Kemang,581,10
+459,45,Kopi Cat Cafe by Groovy - Kemang,617,10
+460,45,Kopi Cat Cafe by Groovy - Kemang,923,9
+461,45,Kopi Cat Cafe by Groovy - Kemang,927,6
+462,45,Kopi Cat Cafe by Groovy - Kemang,941,8
+463,46,MOREAU Chocolatier's Cafe,18,8
+464,46,MOREAU Chocolatier's Cafe,91,5
+465,46,MOREAU Chocolatier's Cafe,215,6
+466,46,MOREAU Chocolatier's Cafe,251,7
+467,46,MOREAU Chocolatier's Cafe,318,9
+468,46,MOREAU Chocolatier's Cafe,543,5
+469,46,MOREAU Chocolatier's Cafe,547,10
+470,46,MOREAU Chocolatier's Cafe,548,10
+471,46,MOREAU Chocolatier's Cafe,566,8
+472,46,MOREAU Chocolatier's Cafe,600,5
+473,46,MOREAU Chocolatier's Cafe,638,7
+474,46,MOREAU Chocolatier's Cafe,660,9
+475,46,MOREAU Chocolatier's Cafe,662,8
+476,46,MOREAU Chocolatier's Cafe,917,9
+477,46,MOREAU Chocolatier's Cafe,965,7
+478,47,Atap Rumah Cafe,123,10
+479,47,Atap Rumah Cafe,261,8
+480,47,Atap Rumah Cafe,602,6
+481,47,Atap Rumah Cafe,657,8
+482,47,Atap Rumah Cafe,757,6
+483,47,Atap Rumah Cafe,813,9
+484,48,MUG Coffee Kalibata,252,10
+485,48,MUG Coffee Kalibata,271,8
+486,48,MUG Coffee Kalibata,448,8
+487,48,MUG Coffee Kalibata,525,8
+488,48,MUG Coffee Kalibata,632,5
+489,48,MUG Coffee Kalibata,728,8
+490,48,MUG Coffee Kalibata,903,7
+491,48,MUG Coffee Kalibata,967,6
+492,49,Chill In Cafe,115,8
+493,49,Chill In Cafe,275,10
+494,49,Chill In Cafe,293,5
+495,49,Chill In Cafe,306,8
+496,49,Chill In Cafe,459,5
+497,49,Chill In Cafe,816,7
+498,49,Chill In Cafe,838,5
+499,49,Chill In Cafe,867,6
+500,49,Chill In Cafe,905,8
+501,49,Chill In Cafe,910,5
+502,50,Fore coffee - Gama tower,16,5
+503,50,Fore coffee - Gama tower,254,10
+504,50,Fore coffee - Gama tower,343,5
+505,50,Fore coffee - Gama tower,384,6
+506,50,Fore coffee - Gama tower,423,8
+507,50,Fore coffee - Gama tower,550,9
+508,50,Fore coffee - Gama tower,614,10
+509,50,Fore coffee - Gama tower,776,5
+510,50,Fore coffee - Gama tower,817,6
+511,50,Fore coffee - Gama tower,884,10
+512,50,Fore coffee - Gama tower,958,8
+513,50,Fore coffee - Gama tower,964,9
+514,51,Super Cup Coffee Shop,169,5
+515,51,Super Cup Coffee Shop,265,10
+516,51,Super Cup Coffee Shop,351,7
+517,51,Super Cup Coffee Shop,439,6
+518,51,Super Cup Coffee Shop,820,6
+519,52,Pribadi Cafe by Pribadi Group,31,7
+520,52,Pribadi Cafe by Pribadi Group,54,6
+521,52,Pribadi Cafe by Pribadi Group,67,8
+522,52,Pribadi Cafe by Pribadi Group,167,10
+523,52,Pribadi Cafe by Pribadi Group,177,6
+524,52,Pribadi Cafe by Pribadi Group,229,9
+525,52,Pribadi Cafe by Pribadi Group,502,8
+526,52,Pribadi Cafe by Pribadi Group,563,10
+527,52,Pribadi Cafe by Pribadi Group,597,10
+528,52,Pribadi Cafe by Pribadi Group,654,7
+529,52,Pribadi Cafe by Pribadi Group,722,7
+530,52,Pribadi Cafe by Pribadi Group,904,10
+531,53,EVLOGIA CAFE & CO,190,5
+532,53,EVLOGIA CAFE & CO,264,8
+533,53,EVLOGIA CAFE & CO,329,5
+534,53,EVLOGIA CAFE & CO,346,5
+535,53,EVLOGIA CAFE & CO,452,10
+536,53,EVLOGIA CAFE & CO,587,7
+537,53,EVLOGIA CAFE & CO,681,10
+538,53,EVLOGIA CAFE & CO,869,8
+539,53,EVLOGIA CAFE & CO,919,5
+540,54,127 Cafe - Kosenda Hotel,1,7
+541,54,127 Cafe - Kosenda Hotel,134,7
+542,54,127 Cafe - Kosenda Hotel,312,9
+543,54,127 Cafe - Kosenda Hotel,362,6
+544,54,127 Cafe - Kosenda Hotel,431,6
+545,54,127 Cafe - Kosenda Hotel,461,8
+546,54,127 Cafe - Kosenda Hotel,912,9
+547,54,127 Cafe - Kosenda Hotel,950,7
+548,55,Djournal Coffee - Kuningan City,27,6
+549,55,Djournal Coffee - Kuningan City,185,10
+550,55,Djournal Coffee - Kuningan City,193,8
+551,55,Djournal Coffee - Kuningan City,328,5
+552,55,Djournal Coffee - Kuningan City,365,6
+553,55,Djournal Coffee - Kuningan City,390,5
+554,55,Djournal Coffee - Kuningan City,486,10
+555,55,Djournal Coffee - Kuningan City,495,8
+556,55,Djournal Coffee - Kuningan City,784,6
+557,55,Djournal Coffee - Kuningan City,963,6
+558,56,1947 Cafe Jakarta,349,6
+559,56,1947 Cafe Jakarta,629,5
+560,56,1947 Cafe Jakarta,810,10
+561,56,1947 Cafe Jakarta,824,8
+562,56,1947 Cafe Jakarta,997,8
+563,57,"Fore Coffee - Cikini, Jakarta",12,10
+564,57,"Fore Coffee - Cikini, Jakarta",41,8
+565,57,"Fore Coffee - Cikini, Jakarta",204,5
+566,57,"Fore Coffee - Cikini, Jakarta",223,9
+567,57,"Fore Coffee - Cikini, Jakarta",396,8
+568,57,"Fore Coffee - Cikini, Jakarta",412,5
+569,57,"Fore Coffee - Cikini, Jakarta",440,6
+570,57,"Fore Coffee - Cikini, Jakarta",478,8
+571,57,"Fore Coffee - Cikini, Jakarta",515,6
+572,57,"Fore Coffee - Cikini, Jakarta",653,5
+573,57,"Fore Coffee - Cikini, Jakarta",685,7
+574,57,"Fore Coffee - Cikini, Jakarta",688,7
+575,57,"Fore Coffee - Cikini, Jakarta",712,7
+576,57,"Fore Coffee - Cikini, Jakarta",737,5
+577,57,"Fore Coffee - Cikini, Jakarta",832,10
+578,57,"Fore Coffee - Cikini, Jakarta",839,5
+579,57,"Fore Coffee - Cikini, Jakarta",918,10
+580,57,"Fore Coffee - Cikini, Jakarta",924,6
+581,58,The People's Cafe,19,9
+582,58,The People's Cafe,141,10
+583,58,The People's Cafe,163,8
+584,58,The People's Cafe,341,10
+585,58,The People's Cafe,726,6
+586,59,TOMORO COFFEE - The East,197,10
+587,59,TOMORO COFFEE - The East,241,7
+588,59,TOMORO COFFEE - The East,296,9
+589,59,TOMORO COFFEE - The East,571,6
+590,59,TOMORO COFFEE - The East,650,8
+591,59,TOMORO COFFEE - The East,789,8
+592,59,TOMORO COFFEE - The East,915,9
+593,59,TOMORO COFFEE - The East,928,10
+594,60,MAKO COFFEE JAKARTA,9,6
+595,60,MAKO COFFEE JAKARTA,220,8
+596,60,MAKO COFFEE JAKARTA,301,8
+597,60,MAKO COFFEE JAKARTA,313,7
+598,60,MAKO COFFEE JAKARTA,435,10
+599,60,MAKO COFFEE JAKARTA,579,5
+600,60,MAKO COFFEE JAKARTA,591,7
+601,60,MAKO COFFEE JAKARTA,665,7
+602,60,MAKO COFFEE JAKARTA,687,6
+603,60,MAKO COFFEE JAKARTA,844,9
+604,60,MAKO COFFEE JAKARTA,926,9
+605,61,One Eighty Cafe,92,5
+606,61,One Eighty Cafe,468,8
+607,61,One Eighty Cafe,516,8
+608,61,One Eighty Cafe,672,10
+609,61,One Eighty Cafe,827,8
+610,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,195,6
+611,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,206,10
+612,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,334,5
+613,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,397,6
+614,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,467,7
+615,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,540,6
+616,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,556,9
+617,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,754,7
+618,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,777,6
+619,62,Swiss-Cafe at Swiss-Belresidences Rasuna Epicentrum,870,8
+620,63,"Fore Coffee - Plaza Festival, Jakarta",10,5
+621,63,"Fore Coffee - Plaza Festival, Jakarta",39,10
+622,63,"Fore Coffee - Plaza Festival, Jakarta",56,8
+623,63,"Fore Coffee - Plaza Festival, Jakarta",257,5
+624,63,"Fore Coffee - Plaza Festival, Jakarta",401,5
+625,63,"Fore Coffee - Plaza Festival, Jakarta",496,10
+626,63,"Fore Coffee - Plaza Festival, Jakarta",630,8
+627,63,"Fore Coffee - Plaza Festival, Jakarta",731,8
+628,63,"Fore Coffee - Plaza Festival, Jakarta",947,9
+629,64,BLEUM Coffee - Pacific Place Jakarta,121,10
+630,64,BLEUM Coffee - Pacific Place Jakarta,194,10
+631,64,BLEUM Coffee - Pacific Place Jakarta,503,7
+632,64,BLEUM Coffee - Pacific Place Jakarta,770,5
+633,64,BLEUM Coffee - Pacific Place Jakarta,793,8
+634,64,BLEUM Coffee - Pacific Place Jakarta,973,10
+635,65,C+C Coffee,286,5
+636,65,C+C Coffee,336,8
+637,65,C+C Coffee,398,9
+638,65,C+C Coffee,466,7
+639,65,C+C Coffee,746,8
+640,65,C+C Coffee,846,5
+641,65,C+C Coffee,857,9
+642,65,C+C Coffee,897,6
+643,65,C+C Coffee,944,5
+644,66,Point Cafe Mall Ambasador,42,5
+645,66,Point Cafe Mall Ambasador,189,9
+646,66,Point Cafe Mall Ambasador,711,5
+647,66,Point Cafe Mall Ambasador,721,7
+648,66,Point Cafe Mall Ambasador,847,8
+649,67,Venom cafe,96,10
+650,67,Venom cafe,165,8
+651,67,Venom cafe,166,10
+652,67,Venom cafe,170,9
+653,67,Venom cafe,228,5
+654,67,Venom cafe,232,8
+655,67,Venom cafe,317,5
+656,67,Venom cafe,358,8
+657,67,Venom cafe,606,9
+658,67,Venom cafe,769,9
+659,67,Venom cafe,868,8
+660,67,Venom cafe,908,9
+661,68,Coffee D. Lites,47,8
+662,68,Coffee D. Lites,98,8
+663,68,Coffee D. Lites,102,7
+664,68,Coffee D. Lites,127,7
+665,68,Coffee D. Lites,207,5
+666,68,Coffee D. Lites,237,6
+667,68,Coffee D. Lites,395,8
+668,68,Coffee D. Lites,424,8
+669,68,Coffee D. Lites,555,8
+670,68,Coffee D. Lites,573,10
+671,68,Coffee D. Lites,825,9
+672,68,Coffee D. Lites,860,8
+673,69,Twin House Cipete,13,7
+674,69,Twin House Cipete,443,6
+675,69,Twin House Cipete,623,9
+676,70,Djakarta Kafe,5,10
+677,70,Djakarta Kafe,6,6
+678,70,Djakarta Kafe,15,8
+679,70,Djakarta Kafe,266,5
+680,70,Djakarta Kafe,376,8
+681,70,Djakarta Kafe,469,7
+682,70,Djakarta Kafe,483,8
+683,70,Djakarta Kafe,554,10
+684,70,Djakarta Kafe,613,9
+685,70,Djakarta Kafe,702,8
+686,70,Djakarta Kafe,889,10
+687,70,Djakarta Kafe,939,8
+688,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,72,9
+689,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,126,7
+690,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,320,5
+691,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,355,8
+692,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,379,8
+693,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,584,9
+694,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,594,7
+695,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,646,6
+696,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,671,5
+697,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,700,7
+698,71,CHIEF BARBERSHOP & COFFEE - CIRAGIL,836,9
+699,72,Sama Dengan Kalibata,35,5
+700,72,Sama Dengan Kalibata,94,6
+701,72,Sama Dengan Kalibata,217,10
+702,72,Sama Dengan Kalibata,294,10
+703,72,Sama Dengan Kalibata,321,9
+704,72,Sama Dengan Kalibata,425,6
+705,72,Sama Dengan Kalibata,457,7
+706,72,Sama Dengan Kalibata,473,6
+707,72,Sama Dengan Kalibata,482,8
+708,72,Sama Dengan Kalibata,709,6
+709,72,Sama Dengan Kalibata,718,9
+710,72,Sama Dengan Kalibata,734,8
+711,72,Sama Dengan Kalibata,779,7
+712,72,Sama Dengan Kalibata,852,9
+713,73,Kyo Coffee,60,8
+714,73,Kyo Coffee,244,8
+715,73,Kyo Coffee,262,9
+716,73,Kyo Coffee,348,8
+717,73,Kyo Coffee,391,6
+718,73,Kyo Coffee,429,10
+719,73,Kyo Coffee,451,10
+720,73,Kyo Coffee,527,10
+721,73,Kyo Coffee,564,5
+722,73,Kyo Coffee,607,10
+723,73,Kyo Coffee,636,10
+724,73,Kyo Coffee,750,9
+725,73,Kyo Coffee,894,6
+726,74,CHIEF COFFEE - KEMANG,186,6
+727,74,CHIEF COFFEE - KEMANG,267,10
+728,74,CHIEF COFFEE - KEMANG,533,5
+729,74,CHIEF COFFEE - KEMANG,549,10
+730,74,CHIEF COFFEE - KEMANG,582,8
+731,74,CHIEF COFFEE - KEMANG,872,10
+732,75,The Cat Cabin,208,6
+733,75,The Cat Cabin,332,7
+734,75,The Cat Cabin,392,8
+735,75,The Cat Cabin,436,6
+736,75,The Cat Cabin,622,9
+737,75,The Cat Cabin,637,10
+738,75,The Cat Cabin,732,8
+739,75,The Cat Cabin,740,10
+740,76,Jakarta Coffee House,48,6
+741,76,Jakarta Coffee House,53,10
+742,76,Jakarta Coffee House,61,5
+743,76,Jakarta Coffee House,106,6
+744,76,Jakarta Coffee House,231,5
+745,76,Jakarta Coffee House,277,10
+746,76,Jakarta Coffee House,337,6
+747,76,Jakarta Coffee House,445,5
+748,76,Jakarta Coffee House,485,8
+749,76,Jakarta Coffee House,541,9
+750,76,Jakarta Coffee House,551,5
+751,76,Jakarta Coffee House,668,6
+752,76,Jakarta Coffee House,807,5
+753,77,D'Bubbles shisha Cafe Tebet,119,9
+754,77,D'Bubbles shisha Cafe Tebet,135,9
+755,77,D'Bubbles shisha Cafe Tebet,253,5
+756,77,D'Bubbles shisha Cafe Tebet,269,8
+757,77,D'Bubbles shisha Cafe Tebet,590,9
+758,77,D'Bubbles shisha Cafe Tebet,596,7
+759,77,D'Bubbles shisha Cafe Tebet,628,8
+760,77,D'Bubbles shisha Cafe Tebet,755,7
+761,77,D'Bubbles shisha Cafe Tebet,874,9
+762,77,D'Bubbles shisha Cafe Tebet,881,7
+763,77,D'Bubbles shisha Cafe Tebet,933,10
+764,77,D'Bubbles shisha Cafe Tebet,980,10
+765,78,The People's Cafe,200,8
+766,78,The People's Cafe,272,6
+767,78,The People's Cafe,326,6
+768,78,The People's Cafe,400,6
+769,78,The People's Cafe,479,8
+770,78,The People's Cafe,529,5
+771,78,The People's Cafe,534,10
+772,78,The People's Cafe,558,10
+773,78,The People's Cafe,733,5
+774,78,The People's Cafe,988,10
+775,79,OverLimit Cafe & Coffee Jakarta,3,9
+776,79,OverLimit Cafe & Coffee Jakarta,104,9
+777,79,OverLimit Cafe & Coffee Jakarta,179,6
+778,79,OverLimit Cafe & Coffee Jakarta,255,10
+779,79,OverLimit Cafe & Coffee Jakarta,383,5
+780,79,OverLimit Cafe & Coffee Jakarta,518,7
+781,79,OverLimit Cafe & Coffee Jakarta,978,6
+782,80,Waroeng Sadjoe,4,8
+783,80,Waroeng Sadjoe,74,9
+784,80,Waroeng Sadjoe,99,6
+785,80,Waroeng Sadjoe,133,8
+786,80,Waroeng Sadjoe,344,5
+787,80,Waroeng Sadjoe,359,9
+788,80,Waroeng Sadjoe,453,7
+789,80,Waroeng Sadjoe,627,5
+790,80,Waroeng Sadjoe,762,5
+791,80,Waroeng Sadjoe,767,6
+792,80,Waroeng Sadjoe,823,9
+793,80,Waroeng Sadjoe,883,6
+794,80,Waroeng Sadjoe,937,9
+795,81,O'delice Cafe,240,7
+796,81,O'delice Cafe,369,5
+797,81,O'delice Cafe,442,10
+798,81,O'delice Cafe,463,9
+799,81,O'delice Cafe,649,6
+800,82,"Bach Coffee, Kuningan city",122,6
+801,82,"Bach Coffee, Kuningan city",132,9
+802,82,"Bach Coffee, Kuningan city",291,7
+803,82,"Bach Coffee, Kuningan city",493,7
+804,82,"Bach Coffee, Kuningan city",719,9
+805,82,"Bach Coffee, Kuningan city",747,9
+806,82,"Bach Coffee, Kuningan city",856,9
+807,82,"Bach Coffee, Kuningan city",861,8
+808,82,"Bach Coffee, Kuningan city",991,6
+809,83,Sang Cafe Jakarta,52,9
+810,83,Sang Cafe Jakarta,168,5
+811,83,Sang Cafe Jakarta,236,7
+812,83,Sang Cafe Jakarta,242,7
+813,83,Sang Cafe Jakarta,298,6
+814,83,Sang Cafe Jakarta,353,7
+815,83,Sang Cafe Jakarta,399,9
+816,83,Sang Cafe Jakarta,402,10
+817,83,Sang Cafe Jakarta,693,5
+818,84,EatWell Coffee Cikini,33,10
+819,84,EatWell Coffee Cikini,113,5
+820,84,EatWell Coffee Cikini,146,5
+821,84,EatWell Coffee Cikini,178,7
+822,84,EatWell Coffee Cikini,238,5
+823,84,EatWell Coffee Cikini,243,9
+824,84,EatWell Coffee Cikini,357,7
+825,84,EatWell Coffee Cikini,604,8
+826,84,EatWell Coffee Cikini,640,7
+827,84,EatWell Coffee Cikini,694,6
+828,84,EatWell Coffee Cikini,806,5
+829,84,EatWell Coffee Cikini,811,5
+830,84,EatWell Coffee Cikini,853,5
+831,84,EatWell Coffee Cikini,892,8
+832,85,New Memories Cafe,40,7
+833,85,New Memories Cafe,88,9
+834,85,New Memories Cafe,116,9
+835,85,New Memories Cafe,279,6
+836,85,New Memories Cafe,319,10
+837,85,New Memories Cafe,356,8
+838,85,New Memories Cafe,385,10
+839,85,New Memories Cafe,427,10
+840,85,New Memories Cafe,601,9
+841,85,New Memories Cafe,615,6
+842,85,New Memories Cafe,921,9
+843,85,New Memories Cafe,992,8
+844,86,The Coffee Bean,8,10
+845,86,The Coffee Bean,90,9
+846,86,The Coffee Bean,372,5
+847,86,The Coffee Bean,388,10
+848,86,The Coffee Bean,449,8
+849,86,The Coffee Bean,487,10
+850,86,The Coffee Bean,492,7
+851,86,The Coffee Bean,497,10
+852,86,The Coffee Bean,575,9
+853,86,The Coffee Bean,960,8
+854,87,J&R Coffee and Eatery,75,9
+855,87,J&R Coffee and Eatery,474,7
+856,87,J&R Coffee and Eatery,519,8
+857,87,J&R Coffee and Eatery,567,7
+858,87,J&R Coffee and Eatery,679,5
+859,87,J&R Coffee and Eatery,713,7
+860,87,J&R Coffee and Eatery,739,5
+861,87,J&R Coffee and Eatery,934,10
+862,87,J&R Coffee and Eatery,945,7
+863,88,CTB Menteng - Coffee & Tea,29,5
+864,88,CTB Menteng - Coffee & Tea,80,10
+865,88,CTB Menteng - Coffee & Tea,128,7
+866,88,CTB Menteng - Coffee & Tea,418,10
+867,88,CTB Menteng - Coffee & Tea,560,10
+868,88,CTB Menteng - Coffee & Tea,642,5
+869,88,CTB Menteng - Coffee & Tea,802,10
+870,88,CTB Menteng - Coffee & Tea,998,7
+871,89,Tovass Cafe,32,6
+872,89,Tovass Cafe,157,10
+873,89,Tovass Cafe,389,9
+874,89,Tovass Cafe,531,10
+875,89,Tovass Cafe,535,5
+876,89,Tovass Cafe,557,6
+877,89,Tovass Cafe,720,10
+878,89,Tovass Cafe,787,8
+879,89,Tovass Cafe,862,10
+880,89,Tovass Cafe,946,9
+881,90,KAY's CAFE,43,6
+882,90,KAY's CAFE,199,10
+883,90,KAY's CAFE,270,6
+884,90,KAY's CAFE,299,6
+885,90,KAY's CAFE,405,10
+886,90,KAY's CAFE,465,8
+887,90,KAY's CAFE,498,9
+888,90,KAY's CAFE,643,5
+889,90,KAY's CAFE,683,10
+890,90,KAY's CAFE,760,10
+891,90,KAY's CAFE,818,5
+892,91,Stillwater Cafe,62,5
+893,91,Stillwater Cafe,183,6
+894,91,Stillwater Cafe,245,10
+895,91,Stillwater Cafe,304,10
+896,91,Stillwater Cafe,408,10
+897,91,Stillwater Cafe,411,8
+898,91,Stillwater Cafe,666,8
+899,91,Stillwater Cafe,822,9
+900,91,Stillwater Cafe,831,7
+901,92,Jakarta Coffee House Senayan,131,9
+902,92,Jakarta Coffee House Senayan,172,10
+903,92,Jakarta Coffee House Senayan,308,7
+904,92,Jakarta Coffee House Senayan,322,9
+905,92,Jakarta Coffee House Senayan,325,5
+906,92,Jakarta Coffee House Senayan,522,8
+907,92,Jakarta Coffee House Senayan,741,10
+908,92,Jakarta Coffee House Senayan,932,5
+909,93,See You On Top Espresso Bar,34,6
+910,93,See You On Top Espresso Bar,307,7
+911,93,See You On Top Espresso Bar,323,7
+912,93,See You On Top Espresso Bar,368,7
+913,93,See You On Top Espresso Bar,768,10
+914,93,See You On Top Espresso Bar,914,6
+915,93,See You On Top Espresso Bar,925,9
+916,94,Rooftop Cafe,160,6
+917,94,Rooftop Cafe,799,10
+918,94,Rooftop Cafe,876,10
+919,94,Rooftop Cafe,955,9
+920,95,Infinite Cafe Jakarta,7,10
+921,95,Infinite Cafe Jakarta,155,9
+922,95,Infinite Cafe Jakarta,205,10
+923,95,Infinite Cafe Jakarta,218,7
+924,95,Infinite Cafe Jakarta,290,5
+925,95,Infinite Cafe Jakarta,393,8
+926,95,Infinite Cafe Jakarta,419,6
+927,95,Infinite Cafe Jakarta,510,8
+928,95,Infinite Cafe Jakarta,647,7
+929,95,Infinite Cafe Jakarta,675,10
+930,95,Infinite Cafe Jakarta,710,7
+931,96,Cafe 18,26,7
+932,96,Cafe 18,78,10
+933,96,Cafe 18,79,9
+934,96,Cafe 18,144,5
+935,96,Cafe 18,221,10
+936,96,Cafe 18,258,8
+937,96,Cafe 18,447,9
+938,96,Cafe 18,598,9
+939,96,Cafe 18,830,6
+940,97,Noah Cafe,93,8
+941,97,Noah Cafe,138,7
+942,97,Noah Cafe,268,6
+943,97,Noah Cafe,324,7
+944,97,Noah Cafe,339,6
+945,97,Noah Cafe,667,6
+946,97,Noah Cafe,736,8
+947,97,Noah Cafe,891,7
+948,97,Noah Cafe,952,7
+949,97,Noah Cafe,999,8
+950,98,FRIENDS 52 Cafe,22,7
+951,98,FRIENDS 52 Cafe,64,9
+952,98,FRIENDS 52 Cafe,136,5
+953,98,FRIENDS 52 Cafe,184,10
+954,98,FRIENDS 52 Cafe,247,8
+955,98,FRIENDS 52 Cafe,263,10
+956,98,FRIENDS 52 Cafe,460,5
+957,98,FRIENDS 52 Cafe,692,10
+958,98,FRIENDS 52 Cafe,716,7
+959,98,FRIENDS 52 Cafe,858,9
+960,98,FRIENDS 52 Cafe,879,9
+961,99,JW Eat Out,21,10
+962,99,JW Eat Out,214,7
+963,99,JW Eat Out,233,5
+964,99,JW Eat Out,250,9
+965,99,JW Eat Out,289,10
+966,99,JW Eat Out,454,8
+967,99,JW Eat Out,484,6
+968,99,JW Eat Out,609,10
+969,99,JW Eat Out,682,10
+970,99,JW Eat Out,841,8
+971,99,JW Eat Out,985,8
+972,100,Streetcafe_jkt,105,7
+973,100,Streetcafe_jkt,885,9
+974,100,Streetcafe_jkt,887,7
+975,100,Streetcafe_jkt,972,5
+976,101,Claudio Coffee,30,9
+977,101,Claudio Coffee,46,6
+978,101,Claudio Coffee,97,6
+979,101,Claudio Coffee,203,7
+980,101,Claudio Coffee,309,10
+981,101,Claudio Coffee,415,6
+982,101,Claudio Coffee,464,8
+983,101,Claudio Coffee,481,10
+984,101,Claudio Coffee,626,9
+985,101,Claudio Coffee,748,7
+986,101,Claudio Coffee,764,6
+987,101,Claudio Coffee,803,9
+988,101,Claudio Coffee,866,6
+989,101,Claudio Coffee,949,10
+990,102,Holmes cafe,57,5
+991,102,Holmes cafe,68,5
+992,102,Holmes cafe,311,9
+993,102,Holmes cafe,428,8
+994,102,Holmes cafe,489,10
+995,102,Holmes cafe,538,7
+996,102,Holmes cafe,599,8
+997,102,Holmes cafe,648,9
+998,102,Holmes cafe,752,10
+999,102,Holmes cafe,783,9
